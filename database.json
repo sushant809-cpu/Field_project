@@ -1,0 +1,387 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Frontend Developer Intern",
+      "company": "PixelCraft Labs",
+      "location": "Pune, Maharashtra",
+      "type": "Internship",
+      "mode": "Hybrid",
+      "category": "Development",
+      "salary": "₹12,000–₹18,000/month",
+      "experience": "Fresher",
+      "posted": "2 days ago",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "description": "Build responsive interfaces, improve accessibility, and work with the product team on real user-facing features.",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Junior Python Developer",
+      "company": "DataNest Technologies",
+      "location": "Remote, India",
+      "type": "Full-time",
+      "mode": "Remote",
+      "category": "Development",
+      "salary": "₹3.2–4.5 LPA",
+      "experience": "0–1 year",
+      "posted": "1 day ago",
+      "skills": [
+        "Python",
+        "SQL",
+        "Git"
+      ],
+      "description": "Help build Python services, write clean code, and collaborate on APIs and automation tasks.",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Data Analyst Intern",
+      "company": "InsightSpring",
+      "location": "Mumbai, Maharashtra",
+      "type": "Internship",
+      "mode": "Hybrid",
+      "category": "Data & Analytics",
+      "salary": "₹10,000–₹15,000/month",
+      "experience": "Fresher",
+      "posted": "3 days ago",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Power BI"
+      ],
+      "description": "Clean datasets, prepare dashboards, and communicate useful findings to business teams.",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "title": "Java Developer Trainee",
+      "company": "BlueOrbit Systems",
+      "location": "Pune, Maharashtra",
+      "type": "Full-time",
+      "mode": "On-site",
+      "category": "Development",
+      "salary": "₹3–4 LPA",
+      "experience": "Fresher",
+      "posted": "4 days ago",
+      "skills": [
+        "Java",
+        "OOP",
+        "MySQL"
+      ],
+      "description": "Learn and contribute to Java applications, unit tests, database queries, and code reviews.",
+      "featured": true
+    },
+    {
+      "id": 5,
+      "title": "UI/UX Design Intern",
+      "company": "Northstar Studio",
+      "location": "Remote, India",
+      "type": "Internship",
+      "mode": "Remote",
+      "category": "Design",
+      "salary": "₹8,000–₹12,000/month",
+      "experience": "Fresher",
+      "posted": "5 days ago",
+      "skills": [
+        "Figma",
+        "Wireframing",
+        "Prototyping"
+      ],
+      "description": "Create wireframes, user flows, and polished interface prototypes for web products.",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "title": "Cybersecurity Support Trainee",
+      "company": "SecureLayer",
+      "location": "Hyderabad, Telangana",
+      "type": "Full-time",
+      "mode": "On-site",
+      "category": "Cybersecurity",
+      "salary": "₹3.5–5 LPA",
+      "experience": "Fresher",
+      "posted": "2 days ago",
+      "skills": [
+        "Networking",
+        "Linux",
+        "Security Basics"
+      ],
+      "description": "Assist with security monitoring, ticket triage, documentation, and approved defensive checks.",
+      "featured": true
+    },
+    {
+      "id": 7,
+      "title": "SQL Support Associate",
+      "company": "AssetBridge Solutions",
+      "location": "Pune, Maharashtra",
+      "type": "Full-time",
+      "mode": "On-site",
+      "category": "Data & Analytics",
+      "salary": "₹2.8–3.8 LPA",
+      "experience": "Fresher",
+      "posted": "6 days ago",
+      "skills": [
+        "SQL",
+        "Database Basics",
+        "Excel"
+      ],
+      "description": "Investigate data issues, write queries, and support database operations under supervision.",
+      "featured": false
+    },
+    {
+      "id": 8,
+      "title": "Backend Developer Intern",
+      "company": "CloudHarbor",
+      "location": "Remote, India",
+      "type": "Internship",
+      "mode": "Remote",
+      "category": "Development",
+      "salary": "₹12,000–₹20,000/month",
+      "experience": "Fresher",
+      "posted": "1 day ago",
+      "skills": [
+        "Node.js",
+        "REST API",
+        "JSON"
+      ],
+      "description": "Implement API endpoints, validate input, and learn how backend services are deployed.",
+      "featured": true
+    },
+    {
+      "id": 9,
+      "title": "Technical Support Engineer",
+      "company": "HelpGrid IT",
+      "location": "Nashik, Maharashtra",
+      "type": "Full-time",
+      "mode": "Hybrid",
+      "category": "IT Support",
+      "salary": "₹2.5–3.5 LPA",
+      "experience": "Fresher",
+      "posted": "7 days ago",
+      "skills": [
+        "Windows",
+        "Networking",
+        "Troubleshooting"
+      ],
+      "description": "Help users resolve technical issues and maintain clear support documentation.",
+      "featured": false
+    },
+    {
+      "id": 10,
+      "title": "QA Tester Intern",
+      "company": "QualityLoop",
+      "location": "Bengaluru, Karnataka",
+      "type": "Internship",
+      "mode": "Hybrid",
+      "category": "Testing",
+      "salary": "₹10,000–₹16,000/month",
+      "experience": "Fresher",
+      "posted": "3 days ago",
+      "skills": [
+        "Manual Testing",
+        "Test Cases",
+        "Bug Reports"
+      ],
+      "description": "Test web flows, document bugs clearly, and verify fixes with the development team.",
+      "featured": false
+    },
+    {
+      "id": 11,
+      "title": "React Developer Intern",
+      "company": "Launchpad Digital",
+      "location": "Remote, India",
+      "type": "Internship",
+      "mode": "Remote",
+      "category": "Development",
+      "salary": "₹15,000–₹22,000/month",
+      "experience": "0–1 year",
+      "posted": "2 days ago",
+      "skills": [
+        "JavaScript",
+        "React",
+        "CSS"
+      ],
+      "description": "Build reusable UI components and connect frontend screens to APIs.",
+      "featured": false
+    },
+    {
+      "id": 12,
+      "title": "Cloud Support Trainee",
+      "company": "SkyStack Services",
+      "location": "Mumbai, Maharashtra",
+      "type": "Full-time",
+      "mode": "Hybrid",
+      "category": "Cloud",
+      "salary": "₹3–4.2 LPA",
+      "experience": "Fresher",
+      "posted": "5 days ago",
+      "skills": [
+        "Linux",
+        "Cloud Basics",
+        "Networking"
+      ],
+      "description": "Support cloud environments, follow runbooks, and escalate incidents when needed.",
+      "featured": false
+    },
+    {
+      "id": 13,
+      "title": "Content & SEO Intern",
+      "company": "SearchBloom",
+      "location": "Remote, India",
+      "type": "Internship",
+      "mode": "Remote",
+      "category": "Marketing",
+      "salary": "₹7,000–₹12,000/month",
+      "experience": "Fresher",
+      "posted": "4 days ago",
+      "skills": [
+        "Writing",
+        "SEO",
+        "Research"
+      ],
+      "description": "Research topics, draft content briefs, and track basic website performance metrics.",
+      "featured": false
+    },
+    {
+      "id": 14,
+      "title": "Mobile App Testing Intern",
+      "company": "AppMosaic",
+      "location": "Pune, Maharashtra",
+      "type": "Internship",
+      "mode": "Hybrid",
+      "category": "Testing",
+      "salary": "₹9,000–₹14,000/month",
+      "experience": "Fresher",
+      "posted": "6 days ago",
+      "skills": [
+        "Android",
+        "Testing",
+        "Documentation"
+      ],
+      "description": "Test mobile application journeys across devices and report reproducible issues.",
+      "featured": false
+    },
+    {
+      "id": 15,
+      "title": "Junior Database Assistant",
+      "company": "CoreLedger Tech",
+      "location": "Aurangabad, Maharashtra",
+      "type": "Full-time",
+      "mode": "On-site",
+      "category": "Data & Analytics",
+      "salary": "₹2.6–3.6 LPA",
+      "experience": "Fresher",
+      "posted": "1 week ago",
+      "skills": [
+        "MySQL",
+        "SQL",
+        "Data Quality"
+      ],
+      "description": "Maintain records, run approved queries, and help verify data consistency.",
+      "featured": false
+    },
+    {
+      "id": 16,
+      "title": "IT Operations Intern",
+      "company": "OpsPilot",
+      "location": "Remote, India",
+      "type": "Internship",
+      "mode": "Remote",
+      "category": "IT Support",
+      "salary": "₹8,000–₹13,000/month",
+      "experience": "Fresher",
+      "posted": "3 days ago",
+      "skills": [
+        "Linux",
+        "Ticketing",
+        "Documentation"
+      ],
+      "description": "Support internal tools and document common troubleshooting procedures.",
+      "featured": false
+    },
+    {
+      "id": 17,
+      "title": "Business Analyst Trainee",
+      "company": "BrightPath Consulting",
+      "location": "Pune, Maharashtra",
+      "type": "Full-time",
+      "mode": "Hybrid",
+      "category": "Business",
+      "salary": "₹3–4 LPA",
+      "experience": "Fresher",
+      "posted": "2 days ago",
+      "skills": [
+        "Excel",
+        "Communication",
+        "Requirements"
+      ],
+      "description": "Help gather requirements, map workflows, and prepare concise project documentation.",
+      "featured": false
+    },
+    {
+      "id": 18,
+      "title": "Machine Learning Intern",
+      "company": "ModelWorks",
+      "location": "Bengaluru, Karnataka",
+      "type": "Internship",
+      "mode": "Hybrid",
+      "category": "AI & ML",
+      "salary": "₹15,000–₹25,000/month",
+      "experience": "0–1 year",
+      "posted": "5 days ago",
+      "skills": [
+        "Python",
+        "Pandas",
+        "Scikit-learn"
+      ],
+      "description": "Prepare datasets, run baseline experiments, and document model evaluation results.",
+      "featured": false
+    },
+    {
+      "id": 19,
+      "title": "Web Development Trainee",
+      "company": "CodeTrail",
+      "location": "Nagpur, Maharashtra",
+      "type": "Full-time",
+      "mode": "On-site",
+      "category": "Development",
+      "salary": "₹2.8–3.8 LPA",
+      "experience": "Fresher",
+      "posted": "4 days ago",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "description": "Create and maintain small web pages, debug UI issues, and learn team workflows.",
+      "featured": false
+    },
+    {
+      "id": 20,
+      "title": "Product Support Intern",
+      "company": "FlowDesk",
+      "location": "Remote, India",
+      "type": "Internship",
+      "mode": "Remote",
+      "category": "IT Support",
+      "salary": "₹9,000–₹14,000/month",
+      "experience": "Fresher",
+      "posted": "1 day ago",
+      "skills": [
+        "Communication",
+        "Troubleshooting",
+        "SaaS"
+      ],
+      "description": "Help customers understand product workflows and report recurring product issues.",
+      "featured": false
+    }
+  ],
+  "users": [],
+  "applications": [],
+  "savedJobs": []
+}
